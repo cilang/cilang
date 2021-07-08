@@ -205,3 +205,6 @@ fabric.properties
 # Notepad++ backups #
 *.bak
 
+.idea/modules.xml
+*.iml
+*.xml
